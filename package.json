@@ -1,0 +1,23 @@
+{
+  "name": "shopeasytask",
+  "version": "1.0.0",
+  "description": "Ecommerce App Task1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnakumardeveloper/ShopEasyTask.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishnakumardeveloper/ShopEasyTask/issues"
+  },
+  "homepage": "https://github.com/krishnakumardeveloper/ShopEasyTask#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
