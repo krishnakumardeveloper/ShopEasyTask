@@ -6,7 +6,7 @@ describe('GET /', () => {
     it("Should return 200 status and correct messege", async()=>{
         const response = await request(app).get("/");
         expect(response.status).toBe(200);
-        expect(response.status).toBe("welcome to ShopEasy From Kriz Code !");
+        expect(response.text).toBe("welcome to ShopEasy From Kriz Code !");
 
     } )
 })
